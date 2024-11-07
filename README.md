@@ -15,7 +15,6 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 test pour essayer de résoudre un conflit
 
-a definir pétard<...>
 
 oh non de zeus
 
