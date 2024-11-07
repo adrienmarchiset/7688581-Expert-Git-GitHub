@@ -15,9 +15,11 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 test pour essayer de résoudre un conflit
 
+
 crack de crack  ,,,,,,,
 
-oh non de zeus
+b2768ff61daa611c4a8cc70efe23f96a17d9416e
+
 
 
 
@@ -44,7 +46,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deploiment
+## Deploiiiiment
 
 
 Voici les étapes à suivre pour déployer en production :
